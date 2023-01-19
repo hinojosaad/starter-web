@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Adrian Hinojosa	adrian.hinojosa@gantabi.com	@hinojosaad
 
 # THANKS
 
